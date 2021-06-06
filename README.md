@@ -18,7 +18,7 @@
 👤 **Armand Chanal**
 
 * Twitter: [@HDJeux](https://twitter.com/HDJeux)
-* Github: [@Fairyjeux](https://github.com/Fairyjeux)
+* Github: [@Fairy-Jeux](https://github.com/Fairy-Jeux)
 
 ## Show your support
 
