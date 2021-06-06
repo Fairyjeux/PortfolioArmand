@@ -33,3 +33,15 @@
 .header .header-menu a:hover {
     color: #3498db
 }
+
+.bannner {
+    margin-top: -20px;
+}
+
+.banner .banner-image {
+    position: relative;
+}
+
+.banner .banner-content h1 {
+    color: #ffffff;
+}
