@@ -1,5 +1,10 @@
 @import "https://cdn.jsdelivr.net/npm/bulma@0.9.2/css/bulma.min.css";
 
+.heading-site {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
 .header{
     width: 100%;
     margin-left: 0;
@@ -31,7 +36,7 @@
 }
 
 .header .header-menu a:hover {
-    color: #3498db
+    color: #AA00FF
 }
 
 .bannner {
@@ -42,6 +47,32 @@
     position: relative;
 }
 
-.banner .banner-content h1 {
+.banner .banner-content h1,
+.banner .banner-content p {
     color: #ffffff;
+}
+
+
+.banner .banner-content {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    top: 30%;
+}
+
+.banner .banner-content p{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.aubout .about-single-element .icon {
+    font-size: 60px;
+    text-align: center;
+}
+
+.about .about-single-element {
+    text-align: center;
+}
+
+.about .about-single-element p {
+    text-align: center;
 }
