@@ -65,8 +65,9 @@
 }
 
 .aubout .about-single-element .icon {
-    font-size: 60px;
+    font-size: 100px;
     text-align: center;
+    color: black;
 }
 
 .about .about-single-element {
