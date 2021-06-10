@@ -93,7 +93,68 @@
     text-align: center;
 }
 
+.about-3 .about-single-element p {
+    text-align: center;
+}
+
+.about-3 .about-single-element .icon {
+    font-size: 100px;
+    text-align: center;
+    color: black;
+}
+
+.about-3 .about-single-element {
+    text-align: center;
+    margin-top: 80px;
+}
+
+.about-3 .about-single-element p {
+    text-align: center;
+}
+.help .about-single-element p {
+    text-align: center;
+}
+
+.help .about-single-element .icon {
+    font-size: 100px;
+    text-align: center;
+    color: black;
+}
+
+.help .about-single-element {
+    text-align: center;
+    margin-top: 325px;
+}
+
+.help .about-single-element p {
+    text-align: center;
+    font-size: 30px;
+}
+
+.help .about-single-element img {
+    text-align: center;
+    margin-top: -300px;
+}
+
+
 .portfolio{
     margin-top: 71px;
-    background-color: whitesmoke;
+}
+
+.footer{
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    height: 70px;
+    line-height: 70px;
+    background-color: #333333;
+    top: 0;
+    z-index: 999;
+}
+
+.footer{
+    color: #333333;
+    font-family: 'Montserrat', sans-serif;
+    float: left;
+    margin-left: 455px;
 }
