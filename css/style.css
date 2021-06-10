@@ -74,7 +74,22 @@
     text-align: center;
 }
 
-.about .about-single-element p {
+.about-2 .about-single-element p {
+    text-align: center;
+}
+
+.about-2 .about-single-element .icon {
+    font-size: 100px;
+    text-align: center;
+    color: black;
+}
+
+.about-2 .about-single-element {
+    text-align: center;
+    margin-top: 270px;
+}
+
+.about-2 .about-single-element p {
     text-align: center;
 }
 
