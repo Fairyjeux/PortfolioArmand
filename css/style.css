@@ -64,8 +64,8 @@
     font-family: 'Open Sans', sans-serif;
 }
 
-.aubout .about-single-element .icon {
-    font-size: 100px;
+.about .about-single-element .icon {
+    font-size: 36px;
     text-align: center;
     color: black;
 }
@@ -74,7 +74,7 @@
     text-align: center;
 }
 
-.about-2 .about-single-element p {
+.about .about-single-element p {
     text-align: center;
 }
 
@@ -136,6 +136,34 @@
     margin-top: -300px;
 }
 
+.about-contact .about-single-element .icon {
+    font-size: 100px;
+    text-align: center;
+    color: black;
+}
+
+.about-contact .about-single-element {
+    text-align: center;
+}
+
+.about-contact .about-single-element p {
+    text-align: center;
+    margin-top: 70px;
+}
+
+.about-contact .about-single-element a {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.icon-contact {
+    font-size: 36px;
+    text-align: center;
+    color: black;
+    margin-top: 130px;
+    margin-bottom: 300px;
+    margin-left: 660px;
+}
 
 .portfolio{
     margin-top: 71px;
@@ -156,5 +184,6 @@
     color: #333333;
     font-family: 'Montserrat', sans-serif;
     float: left;
-    margin-left: 455px;
+    margin-left: 0;
+    text-align: center;
 }
